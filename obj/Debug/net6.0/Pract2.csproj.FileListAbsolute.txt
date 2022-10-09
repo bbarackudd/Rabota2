@@ -1,0 +1,15 @@
+C:\Users\Micro\source\repos\Pract2\bin\Debug\net6.0\Pract2.exe
+C:\Users\Micro\source\repos\Pract2\bin\Debug\net6.0\Pract2.deps.json
+C:\Users\Micro\source\repos\Pract2\bin\Debug\net6.0\Pract2.runtimeconfig.json
+C:\Users\Micro\source\repos\Pract2\bin\Debug\net6.0\Pract2.dll
+C:\Users\Micro\source\repos\Pract2\bin\Debug\net6.0\Pract2.pdb
+C:\Users\Micro\source\repos\Pract2\obj\Debug\net6.0\Pract2.csproj.AssemblyReference.cache
+C:\Users\Micro\source\repos\Pract2\obj\Debug\net6.0\Pract2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\Pract2\obj\Debug\net6.0\Pract2.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\Pract2\obj\Debug\net6.0\Pract2.AssemblyInfo.cs
+C:\Users\Micro\source\repos\Pract2\obj\Debug\net6.0\Pract2.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Pract2\obj\Debug\net6.0\Pract2.dll
+C:\Users\Micro\source\repos\Pract2\obj\Debug\net6.0\refint\Pract2.dll
+C:\Users\Micro\source\repos\Pract2\obj\Debug\net6.0\Pract2.pdb
+C:\Users\Micro\source\repos\Pract2\obj\Debug\net6.0\Pract2.genruntimeconfig.cache
+C:\Users\Micro\source\repos\Pract2\obj\Debug\net6.0\ref\Pract2.dll
